@@ -1,4 +1,4 @@
-# PROJECT TITLE - LOCAL MODIFICATION by MAIN ACCOUNT
+# PROJECT TITLE - CONFLICT RESOLUTION: Merged local and remote changes
 About Me
 
 My name is PengChengLei, and I am a student majoring in IWD2 at unknown college.
